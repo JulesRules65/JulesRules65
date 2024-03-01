@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋, I'm Julien</h1>
-<h3 align="center">Driven by a fervent desire to carve out a career path in software development</h3>
+<h1 align="center">Hi there 👋,</h1>
+<h3 align="center">driven by a fervent desire to carve out a career path in software development</h3>
 
 - 🔭 I’m currently working on [my portfolio website](https://www.julienwuest.de)
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **contact@julienwuest.de**
 
-- ⚡ Fun fact **I have the impostor syndrome**
+- ⚡ Fun fact **I never close drawers**
   
 
 <h3 align="left">Languages and Tools:</h3>
