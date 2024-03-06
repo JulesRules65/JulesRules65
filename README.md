@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [my portfolio website](https://www.julienwuest.de)
 
-- 🌱 I’m currently learning **React & Node.js + my partner's native language: spanish**
+- 🌱 I’m currently learning **for my AWS Certification + my partner's native language: spanish**
 
 - 👯 I’m looking to collaborate on **frontend projects**
 
