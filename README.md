@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [my portfolio website](https://www.julienwuest.de)
 
-- 🌱 I’m currently learning **for my AWS Certification + my partner's native language: spanish**
+- 🌱 I’m currently learning **for my AWS Solutions Architect Certification + my partner's native language: spanish**
 
-- 👯 I’m looking to collaborate on **frontend projects**
+- 👯 I’m looking to collaborate on **Full Stack Projects**
 
 - 💬 Ask me about **Domain Driven Design**
 
