@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋,</h1>
 <h3 align="center">driven by a fervent desire to carve out a career path in software development</h3>
 
-- 🔭 I’m currently working on [my portfolio website](https://www.julienwuest.de)
+- 🔭 I’m currently working on a mobile app using the Ionic Framework
 
 - 🌱 I’m currently learning **for my AWS Solutions Architect Certification + my partner's native language: spanish**
 
@@ -10,8 +10,6 @@
 - 💬 Ask me about **Domain Driven Design**
 
 - 📫 How to reach me **contact@julienwuest.de**
-
-- ⚡ Fun fact **One Kebap is never enough for me**
 
   
 ![](https://komarev.com/ghpvc/?username=JulesRules65&color=orange)
