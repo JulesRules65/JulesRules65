@@ -1,9 +1,9 @@
 <h1 align="center">Hi there 👋,</h1>
 <h3 align="center">driven by a fervent desire to carve out a career path in software development</h3>
 
-- 🔭 I’m currently working on smaller projects with Angular and on a mobile app using the Ionic Framework
+- 🔭 I’m currently working on a mobile app using the Ionic Framework
 
-- 🌱 I’m currently learning **for my AWS Solutions Architect Certification + my partner's native language: spanish**
+- 🌱 I’m currently learning **Angular & my partner's native language: spanish**
 
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 
