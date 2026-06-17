@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **Domain Driven Design**
 
-- 📫 How to reach me **contact@julienwuest.de**
-
   
 ![](https://komarev.com/ghpvc/?username=JulesRules65&color=orange)
 
