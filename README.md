@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.png">
   <img src="./assets/header-light.svg" alt="Julien Wüst — Software for someone." width="100%">
 </picture>
 
