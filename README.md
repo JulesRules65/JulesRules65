@@ -1,33 +1,86 @@
-<h1 align="center">Hi there 👋,</h1>
-<h3 align="center">driven by a fervent desire to carve out a career path in software development</h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
+  <img src="./assets/header-light.svg" alt="Julien Wüst — Software for someone." width="100%">
+</picture>
 
-- 🔭 I’m currently working on a mobile app using the Ionic Framework
+<p align="center">
+  <a href="https://julienwuest.de"><b>Portfolio</b></a>
+  &nbsp;&nbsp; / &nbsp;&nbsp;
+  <a href="https://julienwuest.de/#projectsPage">Project demos</a>
+  &nbsp;&nbsp; / &nbsp;&nbsp;
+  <a href="https://www.youtube.com/@ScenesWeKept">Beyond code</a>
+</p>
 
-- 🌱 I’m currently learning **Angular & my partner's native language: spanish**
+# I'm Julien.
 
-- 👯 I’m looking to collaborate on **Full Stack Projects**
+A software engineer near **Frankfurt am Main**, working as a **Technical Consultant at NTT DATA**. Full-stack engineering is my day-to-day; AI is increasingly part of what I build.
 
-- 💬 Ask me about **Domain Driven Design**
+Outside work, my users are my fiancée, my family and me. A language app because the existing ones weren't quite right. A wardrobe app built around one person's wishes. A household app shaped by how we actually live.
 
-  
-![](https://komarev.com/ghpvc/?username=JulesRules65&color=orange)
+**That's my favourite kind of brief: a real person, a specific problem, something worth making.**
 
+## A few things I've made
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+These projects live in private repositories. The screenshots, demos and technical breakdowns are public on [my website](https://julienwuest.de/#projectsPage).
 
+<p align="center">
+  <a href="https://julienwuest.de/#projectsPage"><img src="./assets/spanish-trainer.png" alt="Spanish Trainer: AI conversation scenarios for practising everyday Spanish" width="30%"></a>
+  &nbsp;
+  <a href="https://julienwuest.de/#projectsPage"><img src="./assets/mycloset.png" alt="myCloset: an outfit assembled from clothes in the wardrobe" width="30%"></a>
+  &nbsp;
+  <a href="https://julienwuest.de/#projectsPage"><img src="./assets/casita.png" alt="casita: a household shopping list grouped by supermarket aisle" width="30%"></a>
+</p>
 
-<!--
-**JulesRules65/JulesRules65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 01 / Spanish Trainer
+**Learning a language, not just keeping a streak.**
 
-Here are some ideas to get you started:
+Built for my family and me, with a focus on Latin American Spanish and the grammar context I was missing elsewhere. Now supports French and English too. FSRS-6 schedules reviews; an AI conversation partner makes room for actual conversation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<sub>React 19 · Firebase · Cloud Functions · Claude API · Offline-first PWA</sub>
+
+### 02 / myCloset
+**Her wardrobe. Her workflow.**
+
+A digital wardrobe built for my fiancée, without the clutter of features she never asked for. Photograph a piece, remove its background right in the browser, build outfits and keep track of what's in the wash. The outfit finder puts together colour-matched looks from what's clean.
+
+<sub>Angular 20 · Tailwind CSS · Firebase · ONNX Runtime · In-browser inference</sub>
+
+### 03 / casita
+**The little operating system for our home.** <sub>In progress</sub>
+
+Shopping, cooking, calendars, chores and shared expenses for the two of us. The shopping list learns our route through the aisles. Recipes scale to who's eating. Expenses don't assume everything is fifty-fifty. Even the product illustrations show the food, not the packaging.
+
+<sub>Expo Router · React Native Web · TypeScript · Supabase · Postgres RLS</sub>
+
+**[Explore the demos and what's under the hood on my portfolio →](https://julienwuest.de/#projectsPage)**
+
+## Different scale. Same attention to detail.
+
+At work, I've been the sole full-stack developer for an enterprise banking-sector intranet: **Angular micro-frontends, C#/.NET, Azure AI Search and Cosmos DB**, including work on an Entra ID migration and automated CI/CD.
+
+My background also includes evaluating **Domain-Driven Design for a 500K+ line legacy Java application** during my degree. I like understanding the system as much as building the next feature.
+
+<details>
+<summary><b>A little more about my toolkit and what's next</b></summary>
+
+<br>
+
+**Interfaces:** Angular, React, React Native Web, TypeScript.<br>
+**Behind them:** C#/.NET, Firebase, Supabase, Azure AI Search, Cosmos DB.<br>
+**Foundations:** B.Sc. in Software Technology, Azure infrastructure, Terraform and CI/CD.
+
+Currently working toward **AI-103** and planning a self-hosted home lab. Further down the list: a RAG pipeline for my Obsidian vault and a C# agent to connect the services around it. Planned, not shipped.
+
+</details>
+
+## Away from the keyboard
+
+Bouldering, calisthenics, a camera, and Spanish that's still a work in progress. My fiancée and I travel whenever we can and keep the memories on **[ScenesWeKept](https://www.youtube.com/@ScenesWeKept)**.
+
+---
+
+<p align="center">
+  <b>Code is part of the story.</b><br>
+  <a href="https://julienwuest.de">Here's the rest.</a>
+</p>
