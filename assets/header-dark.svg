@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Julien W&#252;st &#8212; Software for someone.</title>
+  <desc id="desc">An editorial masthead in charcoal and soft terracotta, with connected illustrations of a conversation, a wardrobe and a home.</desc>
+  <rect width="1200" height="440" rx="12" fill="#20231F"/>
+  <path d="M48 78H1152M48 376H1152" stroke="#41463D"/>
+  <circle cx="57" cy="43" r="7" fill="#E7A184"/>
+  <text x="79" y="50" fill="#F5F1E9" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" letter-spacing="3">JULIEN W&#220;ST</text>
+  <text x="1152" y="50" fill="#B7BAAE" font-family="Arial, Helvetica, sans-serif" font-size="16" letter-spacing="2" text-anchor="end">ENGINEER / BUILDER / HUMAN</text>
+  <text x="45" y="201" fill="#F5F1E9" font-family="Georgia, 'Times New Roman', serif" font-size="100" letter-spacing="-4">Software for</text>
+  <text x="45" y="307" fill="#E7A184" font-family="Georgia, 'Times New Roman', serif" font-size="108" font-style="italic" letter-spacing="-4">someone.</text>
+  <g stroke="#697060" stroke-width="2">
+    <path d="M850 174H923V231H985M889 288H956V231"/>
+    <circle cx="923" cy="231" r="5" fill="#20231F"/>
+  </g>
+  <rect x="754" y="112" width="120" height="120" rx="24" fill="#443C31"/>
+  <path d="M787 149H841V184H815L798 198V184H787Z" stroke="#E2C3A5" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M799 161H829M799 172H820" stroke="#E2C3A5" stroke-width="3" stroke-linecap="round"/>
+  <rect x="980" y="171" width="120" height="120" rx="24" fill="#E7A184"/>
+  <path d="M1009 229L1040 202L1071 229M1017 223V259H1063V223M1033 259V239H1047V259" stroke="#34271F" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="800" y="256" width="90" height="90" rx="20" fill="#394332"/>
+  <path d="M839 283C839 275 852 275 852 283C852 289 845 289 845 295L817 313H873L845 295" stroke="#C7D4B7" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="48" y="411" fill="#B7BAAE" font-family="Arial, Helvetica, sans-serif" font-size="16" letter-spacing="2">FULL-STACK ENGINEERING / APPLIED AI</text>
+  <text x="1152" y="411" fill="#B7BAAE" font-family="Arial, Helvetica, sans-serif" font-size="16" letter-spacing="2" text-anchor="end">FRANKFURT AM MAIN, DE</text>
+</svg>
